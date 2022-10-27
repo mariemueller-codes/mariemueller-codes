@@ -10,7 +10,7 @@
 - 🎓 &nbsp; Degree in Accounting and Associate Degree in Computer Information Technology.
 - 💼 &nbsp; Working as a Senio Technology Analyst.
 - 🌱 &nbsp; Learning more about Cloud Architecture  and Systems Design.
-- ✍️ &nbsp; Currently brushing up my programming skills.
+- ✍️ &nbsp; Constantly brushing up my tech skills.
 - 👩🏻‍💻 &nbsp; Currently enrolled in Udacity Full Stack Nano Degree
 - 👀 &nbsp; Interested in ramen, traveling and learning.
 
