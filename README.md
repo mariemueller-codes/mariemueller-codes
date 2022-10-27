@@ -14,7 +14,7 @@
 - 👩🏻‍💻 &nbsp; Currently enrolled in Udacity Full Stack Nano Degree
 - 👀 &nbsp; Interested in ramen, traveling and learning.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Technology Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -46,13 +46,14 @@
   ![Gerrit](https://img.shields.io/badge/Gerrit-333333?style=flat&logo=gerrit)
   ![Splunk](https://img.shields.io/badge/Splunk-333333?style=flat&logo=splunk)
 
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/mariemueller/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marie%20%20Mueller-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:masmueller@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-masmueller@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
 <!---
-
-
-
-- 📫 How to reach me ...
-
-
 mariemueller-codes/mariemueller-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
