@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Beginner mindset and love exploring new technologies.
 - 🎓 &nbsp; Degree in Accounting and Associate Degree in Computer Information Technology.
-- 💼 &nbsp; Working as a Senio Technology Analyst.
+- 💼 &nbsp; Working as a Senior Technology Analyst.
 - 🌱 &nbsp; Learning more about Cloud Architecture  and Systems Design.
 - ✍️ &nbsp; Constantly brushing up my tech skills.
 - 👩🏻‍💻 &nbsp; Currently enrolled in Udacity Full Stack Nano Degree
