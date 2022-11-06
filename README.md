@@ -11,7 +11,7 @@
 - 💼 &nbsp; Working as a Senior Technology Analyst.
 - 🌱 &nbsp; Learning more about Cloud Architecture  and Systems Design.
 - ✍️ &nbsp; Constantly brushing up my tech skills.
-- 👩🏻‍💻 &nbsp; Currently enrolled in Udacity Full Stack Nano Degree
+- 👩🏻‍💻 &nbsp; Currently enrolled in Udacity Full Stack Nano Degree #UdacityScholar
 - 👀 &nbsp; Interested in ramen, traveling and learning.
 
 <h3> 🛠 &nbsp;Technology Stack</h3>
