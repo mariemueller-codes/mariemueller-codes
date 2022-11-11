@@ -23,7 +23,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+<!--   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C) -->
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -45,6 +45,9 @@
   ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
   ![Gerrit](https://img.shields.io/badge/Gerrit-333333?style=flat&logo=gerrit)
   ![Splunk](https://img.shields.io/badge/Splunk-333333?style=flat&logo=splunk)
+ - 📜 &nbsp;
+  ![Azure Fundamentals](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft)
+  ![AWS Cloud Practitioner](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
