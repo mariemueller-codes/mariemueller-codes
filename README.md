@@ -44,7 +44,7 @@
   ![Jira](https://img.shields.io/badge/Jira-333333?style=flat&logo=jira)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
   ![Gerrit](https://img.shields.io/badge/Gerrit-333333?style=flat&logo=gerrit)
-  <!---![Splunk](https://img.shields.io/badge/Splunk-333333?style=flat&logo=splunk)--->
+  ![Splunk](https://img.shields.io/badge/Splunk-333333?style=flat&logo=splunk)
  - 📜 &nbsp;
   ![Azure Fundamentals](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft)
   ![AWS Cloud Practitioner](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
