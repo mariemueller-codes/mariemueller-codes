@@ -1,6 +1,8 @@
  <p align="center">
- <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%" >
+ <!--   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%" >-->
+ <img src="https://media.giphy.com/media/3o6fJcIM6mG3Ad6lAk/giphy.gif">
  </p>
+
  
 <h2> Hi!!! 👋 I’m Marie.</h2>
 
